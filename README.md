@@ -1,6 +1,6 @@
 # norFAT
 FAT style wear leveling NOR flash flat file system with posix like calls.
-
+liming
 ## Goals
 
 The goal of this project is a fail safe, wear leveling file system built on NOR flash. 
